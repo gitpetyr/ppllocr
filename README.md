@@ -10,7 +10,7 @@
 
 **高性能 · 抗干扰 · 纯 ONNX 验证码识别引擎**
 
-Designed by **Liveless** & **Zjyjoe** & **Colin1112**
+Designed by **Liveless** & **Zjyjoe** & **Colin1112** as C2027
 
 </div>
 
