@@ -12,7 +12,6 @@ license = {text = "MIT"}
 authors = [
     {name = "Liveless", email = "zhongxiaoma2027@gmail.com"},
     {name = "Zjyjoe", email = "309682363@qq.com"},
-    {name = "Colin1112", email = "colin1112@linux.do"}
 ]
 dependencies = [
     "numpy",
