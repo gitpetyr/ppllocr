@@ -135,7 +135,7 @@ text = ocr.classification(open("hard_sample.jpg", "rb").read(), conf=0.25, iou=0
 
   - **Liveless**: 这个人用暴力数据解决了一切问题。
   - **Zjyjoe**: 感谢提供的 GPU 运行时。
-  - **Colin1112**: 万恶之源。
+  - **colin1112**: 万恶之源。
 
 ## 许可证
 
